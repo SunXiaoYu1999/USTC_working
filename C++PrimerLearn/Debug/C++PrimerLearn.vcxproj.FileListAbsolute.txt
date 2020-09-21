@@ -1,2 +1,4 @@
 D:\Projects\Visual Studio 2019\C++\learn_in_USTC\C++PrimerLearn\Debug\C++PrimerLearn.exe
 D:\Projects\Visual Studio 2019\C++\learn_in_USTC\C++PrimerLearn\Debug\C++PrimerLearn.pdb
+E:\Project\Visual Studio\C++\LearnOfPrimer\USTC_working\C++PrimerLearn\Debug\C++PrimerLearn.exe
+E:\Project\Visual Studio\C++\LearnOfPrimer\USTC_working\C++PrimerLearn\Debug\C++PrimerLearn.pdb
